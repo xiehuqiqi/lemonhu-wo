@@ -1,0 +1,226 @@
+{
+  "id": "3917187",
+  "name": "huwo2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "33631569",
+      "name": "放大",
+      "font_class": "fangda",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "33631570",
+      "name": "安全",
+      "font_class": "anquan",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "33631572",
+      "name": "缩小",
+      "font_class": "suoxiao",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "33631574",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "33631576",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "33631577",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "33631578",
+      "name": "导入",
+      "font_class": "daoru",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "33631580",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "33631581",
+      "name": "表单",
+      "font_class": "biaodan",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "33631582",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "33631583",
+      "name": "调整",
+      "font_class": "tiaozheng",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "33631585",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "29290577",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "100bf",
+      "unicode_decimal": 65727
+    },
+    {
+      "icon_id": "29290578",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "100c0",
+      "unicode_decimal": 65728
+    },
+    {
+      "icon_id": "29290579",
+      "name": "发送",
+      "font_class": "fasong",
+      "unicode": "100c1",
+      "unicode_decimal": 65729
+    },
+    {
+      "icon_id": "29290580",
+      "name": "空间",
+      "font_class": "kongjian",
+      "unicode": "100c2",
+      "unicode_decimal": 65730
+    },
+    {
+      "icon_id": "29290583",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "100c3",
+      "unicode_decimal": 65731
+    },
+    {
+      "icon_id": "29290584",
+      "name": "微信支付",
+      "font_class": "weixinzhifu",
+      "unicode": "100c4",
+      "unicode_decimal": 65732
+    },
+    {
+      "icon_id": "29290585",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "100c5",
+      "unicode_decimal": 65733
+    },
+    {
+      "icon_id": "29290586",
+      "name": "日期",
+      "font_class": "riqi",
+      "unicode": "100c6",
+      "unicode_decimal": 65734
+    },
+    {
+      "icon_id": "29290587",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "100c7",
+      "unicode_decimal": 65735
+    },
+    {
+      "icon_id": "29290588",
+      "name": "购物",
+      "font_class": "gouwu",
+      "unicode": "100c8",
+      "unicode_decimal": 65736
+    },
+    {
+      "icon_id": "29290589",
+      "name": "男士",
+      "font_class": "nanshi",
+      "unicode": "100c9",
+      "unicode_decimal": 65737
+    },
+    {
+      "icon_id": "29290590",
+      "name": "女士",
+      "font_class": "nvshi",
+      "unicode": "100ca",
+      "unicode_decimal": 65738
+    },
+    {
+      "icon_id": "29290591",
+      "name": "朋友圈",
+      "font_class": "pengyouquan",
+      "unicode": "100cb",
+      "unicode_decimal": 65739
+    },
+    {
+      "icon_id": "29290592",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "100cc",
+      "unicode_decimal": 65740
+    },
+    {
+      "icon_id": "29290594",
+      "name": "区域",
+      "font_class": "quyu",
+      "unicode": "100cd",
+      "unicode_decimal": 65741
+    },
+    {
+      "icon_id": "29290595",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "100ce",
+      "unicode_decimal": 65742
+    },
+    {
+      "icon_id": "29290596",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "100cf",
+      "unicode_decimal": 65743
+    },
+    {
+      "icon_id": "29290597",
+      "name": "网络",
+      "font_class": "wangluo",
+      "unicode": "100d0",
+      "unicode_decimal": 65744
+    },
+    {
+      "icon_id": "29290598",
+      "name": "群聊",
+      "font_class": "qunliao",
+      "unicode": "100d1",
+      "unicode_decimal": 65745
+    }
+  ]
+}

@@ -21,11 +21,12 @@ var timer = setInterval(function () {
     console.log("进度条100%了！")
     $('#fileBar').css('color' , 'gold').text('lemonhu & 狐窝')
     console.log('欢迎来到 柠檬狐的狐窝')
-    $('#hu-jz').toggle().css('display','none')
+    $('#hu-jz').fadeOut(3000);
+    // .toggle().css('display','none')
     console.log('加载完成，已隐藏加载')
     clearInterval(timer);
   } else {
-    jdt += 10;
+    jdt += 50;
   }
 }, 1000);
 </script>
@@ -40,7 +41,8 @@ var timer = setInterval(function () {
   top: 70%;
   width: 20%;
   background-color: #e2e2e2;
-  border-radius: 10px;
+  border-radius: 15px;
+  border: 1px solid gold;
 }
 
 #fileBar {
@@ -50,6 +52,7 @@ var timer = setInterval(function () {
   background-color: #5FB878;
   text-align: center;
   color: white;
-  border-radius: 10px;
+  border: 1px solid gold;
+  border-radius: 15px;
 }
 </style>

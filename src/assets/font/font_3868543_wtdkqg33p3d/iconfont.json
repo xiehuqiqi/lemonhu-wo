@@ -1,0 +1,107 @@
+{
+  "id": "3868543",
+  "name": "lemon-hu2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "33077884",
+      "name": "计算器",
+      "font_class": "a-ziyuan261",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "33077885",
+      "name": "指南针",
+      "font_class": "a-ziyuan262",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "33077889",
+      "name": "记事本",
+      "font_class": "a-ziyuan265",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "33077891",
+      "name": "时钟",
+      "font_class": "a-ziyuan269",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "33077892",
+      "name": "日历",
+      "font_class": "a-ziyuan267",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "33077894",
+      "name": "音乐",
+      "font_class": "a-ziyuan270",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "33077895",
+      "name": "文件夹",
+      "font_class": "a-ziyuan271",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "33077896",
+      "name": "浏览器",
+      "font_class": "a-ziyuan257",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "33077900",
+      "name": "修改",
+      "font_class": "a-ziyuan276",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "33077901",
+      "name": "邮件",
+      "font_class": "a-ziyuan280",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "33077907",
+      "name": "主页",
+      "font_class": "a-ziyuan284",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "33077908",
+      "name": "设置",
+      "font_class": "a-ziyuan283",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "33077912",
+      "name": "电量",
+      "font_class": "a-ziyuan287",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "33077913",
+      "name": "信号",
+      "font_class": "a-ziyuan288",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    }
+  ]
+}
