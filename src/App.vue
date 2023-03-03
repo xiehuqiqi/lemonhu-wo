@@ -1,6 +1,6 @@
 <script lang="ts">
 import $ from 'jquery'
-import HuJz from "./components/HuJz.vue";
+import HuJz from './components/HuJz.vue';
 import HuMain from "./components/HuMain.vue";
 
 export default{
@@ -10,14 +10,13 @@ export default{
 		}
 	},
 	components: {
-		HuJz,
     HuMain,
-
-	}
+    HuJz,
+}
 }
 </script>
 <template>
-  <HuJz />
+  <HuJz/>
   <HuMain/>
 </template>
 <style>

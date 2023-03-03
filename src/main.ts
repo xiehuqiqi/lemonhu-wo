@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-//import router from './router'
+import router from './router'
 import $ from 'jquery'
 
 
@@ -14,6 +14,6 @@ import './assets/js/title.js'
 
 const app = createApp(App)
 
-// app.use(router)
+app.use(router)
 
 app.mount('#app')

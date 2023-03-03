@@ -15,10 +15,15 @@ export default {
   <div :id="IDmain">
     <nav :id="IDnav">
       <ul>
-        <li><a href="/"><img :class="Classnavtou" src="../assets/icon/favicon.ico"></a></li>
-        <li><p>柠檬狐窝</p></li>
+        <li>
+          hhh
+        </li>
       </ul>
-      
+      <ul>
+        <li>
+          
+        </li>
+      </ul>
       
     </nav>
   </div>
@@ -45,7 +50,7 @@ export default {
   width: 100%;
   height: 50px;
   background-color: rgb(58, 212, 78);
-  border-radius: 0px 0px 20px 20px;
+  border-radius: 20px 20px 20px 20px;
 }
 
 .nav-tou {

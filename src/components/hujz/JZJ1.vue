@@ -26,7 +26,7 @@ var timer = setInterval(function () {
     console.log('加载完成，已隐藏加载')
     clearInterval(timer);
   } else {
-    jdt += 50;
+    jdt +=10;
   }
 }, 1000);
 </script>
